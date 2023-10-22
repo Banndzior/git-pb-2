@@ -141,6 +141,7 @@ git branch
 * [ ] Zmien plik tekstowy w swoim katalogu i commituj zmiane
 
 ```dos
+git add .
 git commit -m "Poprawka"
 ```
 
