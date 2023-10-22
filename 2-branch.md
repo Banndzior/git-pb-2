@@ -142,7 +142,7 @@ git branch
 
 ```dos
 git add .
-git commit -m "Poprawka"
+git commit -m "Poprawka hotfixa"
 ```
 
 * [ ] Merguj zmiany do swojego brancha student/twoj-login-github
