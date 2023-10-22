@@ -1,4 +1,5 @@
 1-podstawy-git.md
 2-branch.md
 AndrooIT.txt
+to jest zmiana w pliku
 static
