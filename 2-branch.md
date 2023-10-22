@@ -117,3 +117,37 @@ git add .
 git commit -m "Moj plik"
 git push origin student/twoj-login-github
 ```
+
+* [ ] Odswiez swoj branch o zmiany z brancha master/main
+```dos
+git checkout main
+git pull
+git checkout student/twoj-login-github
+git merge main
+git push
+```
+
+* [ ] Utworz Pull Request swojego brancha do main
+
+https://github.com/Banndzior/git-pb-2/compare
+
+* [ ] Utworz branch hotfix/twoj-login-github z twojego brancha
+
+```dos
+git checkout -b hotfix/twoj-login-github
+git branch
+```
+
+* [ ] Zmien plik tekstowy w swoim katalogu i commituj zmiane
+
+```dos
+git commit -m "Poprawka"
+```
+
+* [ ] Merguj zmiany do swojego brancha student/twoj-login-github
+
+```dos
+git checkout student/twoj-login-github
+git merge hotfix/twoj-login-github
+```
+
