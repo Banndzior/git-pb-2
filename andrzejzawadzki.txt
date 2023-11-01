@@ -1,5 +1,2 @@
 1-podstawy-git.md
-2-branch.md
-andrzejzawadzki
 andrzejzawadzki.txt
-static
