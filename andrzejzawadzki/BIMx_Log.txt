@@ -1,0 +1,257 @@
+//BIMx
+//Copyright 2002-2013  Graphisoft SE  All rights reserved
+//Thu Sep 16 19:12:58 2021
+
+//0.000 zrEngine_InitCore
+  Program directory is '/Applications/GRAPHISOFT/BIMx Desktop Viewer/BIMx.app/Contents/MacOS/'
+  Data directory is '/Applications/GRAPHISOFT/BIMx Desktop Viewer/'
+  User directory is '/Users/andrzej/Documents'
+
+//0.001 zrEngine_Startup
+  Initializing memory manager
+  Initializing window
+
+//0.052 zrWindow_BuildGL
+  Operating system = OS-X
+  Width = 5120
+  Height = 2762
+
+//0.053 zrWindow_PrintWindowInfo
+  Video memory installed = 268 435 456 bytes (forced to 256 MB)
+
+//0.316 zrEngine_Startup
+  Initializing input
+  Initializing opengl
+
+//0.317 zrOgl_InitExtensions
+  Renderer = Intel(R) Iris(TM) Plus Graphics 640
+  Vendor = Intel Inc.
+  Driver = 2.1 INTEL-16.1.12
+  Maximum supported texture size = 16384
+  Maximum supported 3d texture size = 0
+  Maximum number of texture units = 8
+  Opengl 1.2 support = Yes
+  Opengl 1.3 support = Yes
+  Opengl 1.4 support = Yes
+  Opengl 1.5 support = Yes
+  Opengl 2.0 support = Yes
+  Opengl 2.1 support = Yes
+  ARB_multitexture = Yes
+  ARB_texture_compression = Yes
+  ARB_texture_env_dot3 = Yes
+  ARB_texture_cube_map = Yes
+  ARB_vertex_program = Yes
+  ARB_occlusion_query  = Yes
+  ARB_vertex_buffer_object = Yes
+  ARB_pixel_buffer_object = Yes
+  ARB_depth_texture = Yes
+  ARB_shadow = Yes
+  ARB_shadow_ambient = No
+  ARB_shading_language_100 = Yes
+  ARB_fragment_program = Yes
+  ARB_fragment_pr_shadow = Yes
+  ARB_color_buffer_float = Yes
+  ARB_texture_float = Yes
+  ATI_texture_float = Yes
+  EXT_texture_compression_s3tc = Yes
+  EXT_framebuffer_object = Yes
+  EXT_depth_bounds_test = No
+  NV_vertex_array_range = No
+  NV_vertex_array_range2 = No
+
+//0.320 zrEngine_Startup
+  Initializing strings
+
+//0.321 zrStrings_Load
+  Number of strings to load = 1056
+
+//0.325 zrEngine_Startup
+  Initializing engine
+
+//0.325 zrEngine_InitEngine
+  Version is 2019.2.2328
+  Launching application only
+
+//0.327 zrEngine_Startup
+  Initializing devmode
+  Initializing camera
+  Initializing compressor
+  Initializing layers
+
+//0.327 zrLayers_Init
+  Maximum number of layers = 10
+
+//0.327 zrEngine_Startup
+  Initializing measure tool
+  Initializing gallery
+
+//0.329 zrGallery_Init
+  Allocated 403 KB for gallery clips
+
+//0.329 zrEngine_Startup
+  Initializing skybox
+  Initializing world
+
+//0.412 zrEngine_InitAvailableRenderModes
+  Number of render modes = 8
+
+//1.813 zrEngine_InitEngine
+  Model path is '/Users/andrzej/Downloads/dom202002-167 (1).bimx'
+
+//1.813 zrLayers_Load
+  Freeing previous layers
+  Allocating 60 new layers
+  Updating pointers
+  Number of layers = 51
+  Number of pages = 6
+  Loading layers from file
+
+//1.813 zrGallery_Load
+  Trying to load 62 items
+  Found item 0-0 type 0
+  Found item 1-1 type 1
+  Found item 2-2 type 2
+  Found item 3-3 type 3
+  Found item 4-4 type 4
+  Found item 5-5 type 5
+  Found item 6-6 type 6
+  Found item 7-7 type 7
+  Found item 8-8 type 8
+  Found item 9-9 type 9
+  Found item 10-10 type 10
+  Found item 11-11 type 11
+  Found item 12-12 type 12
+  Found item 13-13 type 13
+  Found item 14-14 type 14
+  Found item 15-15 type 15
+  Found item 16-16 type 16
+  Found item 17-17 type 17
+  Found item 18-18 type 18
+  Found item 19-19 type 19
+  Found item 20-20 type 20
+  Found item 21-21 type 21
+  Found item 22-22 type 22
+  Found item 23-23 type 23
+  Found item 24-24 type 24
+  Found item 25-25 type 25
+  Found item 26-26 type 26
+  Found item 27-27 type 27
+  Found item 28-28 type 28
+  Found item 29-29 type 29
+  Found item 30-30 type 30
+  Found item 31-31 type 31
+  Found item 32-32 type 32
+  Found item 33-33 type 33
+  Found item 34-34 type 34
+  Found item 35-35 type 35
+  Found item 36-36 type 36
+  Found item 37-37 type 37
+  Found item 38-38 type 38
+  Found item 39-39 type 39
+  Found item 40-40 type 40
+  Found item 41-41 type 41
+  Found item 42-42 type 42
+  Found item 43-43 type 43
+  Found item 44-44 type 44
+  Found item 45-45 type 45
+  Found item 46-46 type 46
+  Found item 47-47 type 47
+  Found item 48-48 type 48
+  Found item 49-49 type 49
+  Found item 50-50 type 50
+  Found item 51-51 type 51
+  Found item 52-52 type 52
+  Found item 53-53 type 53
+  Found item 54-54 type 54
+  Found item 55-55 type 55
+  Found item 56-56 type 56
+  Found item 57-57 type 57
+  Found item 58-58 type 58
+  Found item 59-59 type 59
+  Found item 60-60 type 60
+  Found item 61-61 type 61
+  Done loading numitems=62
+
+//2.300 zrEngine_LoadSaveSettings
+  Loading settings from local file
+
+//2.316 zrEngine_Load
+  Initializing interface
+
+//2.319 zrEngine_SetupInterface
+  Radiosity = No
+  Launched from player
+
+//2.320 zrOgl_LoadTexture
+  Image is png
+
+//2.321 zrCore_ComputePow2Dim
+  MaxPow2 == 16384, iInDim == 433, iCmpDim == 256
+  MaxPow2 == 16384, iInDim == 192, iCmpDim == 128
+
+//2.330 zrOgl_LoadTexture
+  Image was rescaled from 433 x 192 to 256 x 128
+  Image is png
+
+//2.331 zrCore_ComputePow2Dim
+  MaxPow2 == 16384, iInDim == 160, iCmpDim == 128
+  MaxPow2 == 16384, iInDim == 120, iCmpDim == 64
+
+//2.332 [error] zrInterf_EnableButton
+  !Failed to find button 'Next' in page 'HyperFormPage'
+  !Failed to find button 'Previous' in page 'HyperFormPage'
+  !Failed to find button 'Next' in page 'HyperFormPage'
+  !Failed to find button 'Previous' in page 'HyperFormPage'
+
+//2.351 zrEngine_Load
+  Model succesfully loaded
+
+//2.351 zrEngine_Startup
+  Initializing interface
+  Entering level
+
+//2.351 zrEngine_Run
+  ---Entering main loop---
+
+//100.215 zrEngine_Shutdown
+  Shutting down interface
+  Shutting down measure tool
+  Shutting down skybox
+  Shutting down gallery
+
+//100.218 zrGallery_Shutdown
+  Freeing pRecKeys
+
+//100.219 zrEngine_Shutdown
+  Shutting down world
+
+//100.219 zrWorld_Shutdown
+  Freeing world
+
+//100.219 zrEngine_Shutdown
+  Shutting down layers
+  Shutting down camera
+  Shutting down dev mode
+  Shutting down engine
+  Shutting down strings
+  Shutting down opengl
+  Shutting down input
+  Shutting down BXEngine
+  Shutting down window
+
+//100.337 zrWindow_Shutdown
+  Shutting down
+
+//100.337 zrEngine_Shutdown
+  Shutting down memory manager
+
+//100.337 zrMem_Shutdown
+  Shutting down
+  Freeing 16 777 216 bytes used by temp buffer
+  Leaking 28 323 056 bytes
+
+//100.339 zrMem_List
+  RAM usage 27 FAILED(61)
+
+//100.339 zrEngine_Shutdown
+  Shutting down core
