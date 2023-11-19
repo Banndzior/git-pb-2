@@ -2,7 +2,7 @@
 
 ## Instalacja / Konfiguracja
 
-* [X] Zainstaluj git
+* [ ] Zainstaluj git
 
 
 | OS | Install |
@@ -11,12 +11,12 @@
 | Linux | apt-get install git |
 | Mac OS | brew install git[https://git-scm.com/download/mac](https://git-scm.com/download/mac) |
 
-* [X] Zainstaluj Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/))
-* [X] Zainstaluj dodatki do Visual Studio Code >> Extensions
+* [ ] Zainstaluj Visual Studio Code ([https://code.visualstudio.com/](https://code.visualstudio.com/))
+* [ ] Zainstaluj dodatki do Visual Studio Code >> Extensions
 
 GitLens
 
-* [X] *Zainstaluj GIT GUI ([https://www.hostinger.com/tutorials/best-git-gui-clients/](https://www.hostinger.com/tutorials/best-git-gui-clients/))
+* [ ] *Zainstaluj GIT GUI ([https://www.hostinger.com/tutorials/best-git-gui-clients/](https://www.hostinger.com/tutorials/best-git-gui-clients/))
 
 
 | GUI GUI | Url |
@@ -24,8 +24,8 @@ GitLens
 | GitExtensions | [http://gitextensions.github.io/](http://gitextensions.github.io/) |
 | SourceTree | [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/) |
 
-* [X] Przygotuj konto na GitHub (załóż lub podaj login Kamilowi na Slack)
-* [X] Sprawdź czy git działa
+* [ ] Przygotuj konto na GitHub (załóż lub podaj login Kamilowi na Slack)
+* [ ] Sprawdź czy git działa
 
 ```dos
 git --version
@@ -33,13 +33,13 @@ git --version
 
 ## GIT test
 
-* [X] Sklonuj "dowolne" repozytorium z GitHub (https://github.com/Banndzior/git-pb)
+* [ ] Sklonuj "dowolne" repozytorium z GitHub (https://github.com/Banndzior/git-pb)
 
 ```dos
 git clone <url>
 ```
 
-* [X] Pobierz najnowsze zmiany
+* [ ] Pobierz najnowsze zmiany
 
 ```dos
 git pull

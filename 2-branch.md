@@ -141,7 +141,8 @@ git branch
 * [ ] Zmien plik tekstowy w swoim katalogu i commituj zmiane
 
 ```dos
-git commit -m "Poprawka"
+git add .
+git commit -m "Poprawka hotfixa"
 ```
 
 * [ ] Merguj zmiany do swojego brancha student/twoj-login-github
