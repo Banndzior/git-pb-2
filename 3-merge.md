@@ -140,8 +140,7 @@ git merge hotfix/twoj-login-github
 git checkout hotfix/twoj-login-github
 git rev-parse HEAD
 git revert <commit-id>
-``'
-blblblblblb
+```
 
 * [ ] Wyslij swoje 2 branche na serwer (ew. set-upstream jak podpowie konsola git)
 
