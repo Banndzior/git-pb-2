@@ -1,0 +1,35 @@
+let example1 = "This is an example.";
+let example2 = "In this article, I will show you how to create a framework-agnostic plugin. For the purpose of this tutorial, we will be creating a carousel/slider plugin — the goal of the plugin.";
+
+console.log(countWordsInString(example1));
+console.log(countWordsInString(example2));
+
+function countWordsInString(str) {
+    // Use a regular expression to split the string by spaces, tabs, and newlines
+    const wordsArray = str.split(/\s+/).filter(word => word.length > 0);
+  
+    // Count the number of words
+    const wordCount = wordsArray.length;
+  
+    return wordCount;
+  }
+  
+  
+  // Example usage
+  /* const inputString = "This is a sample string with seven words.";
+  const wordCount = countWordsInString(inputString);
+  console.log("Word count:", wordCount); // Output: 7 */
+
+/* ZADANIE 1B
+let example1 = "This is an example.";
+let example2 = "In this article, I will show you how to create a framework-agnostic plugin. For the purpose of this tutorial, we will be creating a carousel/slider plugin — the goal of the plugin.";
+
+countA(example1);
+countA(example2);
+
+function countA(str) {
+  myArray = str.split("a");
+  result = myArray.length - 1;
+  console.log(result);
+} */
+
